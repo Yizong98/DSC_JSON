@@ -1,0 +1,76 @@
+{
+  "title": "Yahoo! Weather - Moscow, Moscow Federal City, RU",
+  "forecast": [
+    {
+      "date": "24.02.2018",
+      "day": "Sat",
+      "high": "-9",
+      "low": "-16",
+      "temp_range": "7"
+    },
+    {
+      "date": "25.02.2018",
+      "day": "Sun",
+      "high": "-14",
+      "low": "-18",
+      "temp_range": "4"
+    },
+    {
+      "date": "26.02.2018",
+      "day": "Mon",
+      "high": "-16",
+      "low": "-24",
+      "temp_range": "8"
+    },
+    {
+      "date": "27.02.2018",
+      "day": "Tue",
+      "high": "-17",
+      "low": "-26",
+      "temp_range": "9"
+    },
+    {
+      "date": "28.02.2018",
+      "day": "Wed",
+      "high": "-15",
+      "low": "-24",
+      "temp_range": "9"
+    },
+    {
+      "date": "01.03.2018",
+      "day": "Thu",
+      "high": "-10",
+      "low": "-17",
+      "temp_range": "7"
+    },
+    {
+      "date": "02.03.2018",
+      "day": "Fri",
+      "high": "-8",
+      "low": "-12",
+      "temp_range": "4"
+    },
+    {
+      "date": "03.03.2018",
+      "day": "Sat",
+      "high": "-6",
+      "low": "-12",
+      "temp_range": "6"
+    },
+    {
+      "date": "04.03.2018",
+      "day": "Sun",
+      "high": "-4",
+      "low": "-8",
+      "temp_range": "4"
+    },
+    {
+      "date": "05.03.2018",
+      "day": "Mon",
+      "high": "-2",
+      "low": "-6",
+      "temp_range": "4"
+    }
+  ],
+  "largest_drop": "27.02.2018"
+}

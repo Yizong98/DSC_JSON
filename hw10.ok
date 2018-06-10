@@ -1,0 +1,21 @@
+{
+    "name": "Homework 10",
+    "endpoint": "ucsd/dsc20/sp18/hw10",
+    "src": [
+        "hw10.py",
+        "weather.json",
+        "new_temps.json"
+    ],
+    "tests": {
+        "hw10.py:workaround":"doctest"
+    },
+    "default_tests": [
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}
